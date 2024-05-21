@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @Maggie-Boyse
-- 👀 I’m interested in ... starting a new career
-- 🌱 I’m currently learning ... software engineering
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
-- 😄 Pronouns: ... she/they
-- ⚡ Fun fact: ... I love crochet and crafts 
+- 👀 I’m interested in starting a new career that connects me to my community
+- 🌱 I’m currently learning how to create a drag and drop feature!
+- 💞️ I’m looking to collaborate on small hobby projects that can solidify my fundamental skills
+- 📫 How to reach me: maggie_boyse@outlook.com
+- 😄 Pronouns: she/they
+- ⚡ Fun fact: I love crochet, crafts , and cats!
 
-<!---
-Maggie-Boyse/Maggie-Boyse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I love to put my personal stamp on my projects wherever possible, and my greatest strength is the rapport I form with others!
